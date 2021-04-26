@@ -14,3 +14,6 @@ I can even put in bullet list:
 
 
 Now i need to figure out how to add an image. 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
