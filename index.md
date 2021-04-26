@@ -11,3 +11,6 @@ I can even put in bullet list:
 
 2. Still doing blah
     1. Final blah
+
+
+Now i need to figure out how to add an image. 
