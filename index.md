@@ -15,5 +15,5 @@ I can even put in bullet list:
 
 Now i need to figure out how to add an image. 
 
-![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
+![GitHub Logo](https://github.com/Beau28713/First_Game/blob/gh-pages/download.png)
 Format: ![Alt Text](url)
